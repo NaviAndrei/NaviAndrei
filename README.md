@@ -8,7 +8,7 @@ I've started learning Software Testing since the beginning of 2023, now I'm lear
 
 * 🌍  I'm based in Bucharest
 * ✉️  You can contact me at [andrei.ivan1208@gmail.com](mailto:andrei.ivan1208@gmail.com)
-* 🧠  I'm learning API Testing with Postman and Python
+* 🧠  I'm learning Python and Web Development
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
