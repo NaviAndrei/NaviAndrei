@@ -4,7 +4,7 @@ My name is Ivan Andrei
 Application Support Specialist
 ------------------------------
 
-Ivan Andrei| Owner of Digitech Sync | IT Specialist | Freelancer - Expert with expertise in IT Support, Web Development (HTML, CSS, Javascript, SQL, Python | React, Django, MySQL, SSMS) - Python Developer. I'm dedicated to creating high-quality, open-source projects that make a difference. Let's collaborate and build something amazing together!
+Ivan Andrei | Owner of Digitech Sync | IT Specialist | Freelancer - Expert with expertise in IT Support, Web Development (HTML, CSS, Javascript, SQL, Python | React, Django, MySQL, SSMS) - Python Developer. I'm dedicated to creating high-quality, open-source projects that make a difference. Let's collaborate and build something amazing together!
 
 * :pushpin:  I'm based in Bucharest, Romania
 * 🌍  My Freelance Website - Digiteh Sync: https://syncwithivan.com
