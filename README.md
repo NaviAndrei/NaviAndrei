@@ -1,14 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ivan Andrei
+My name is Ivan Andrei
 ===================================================================================================================================
 
 Application Support Specialist
 ------------------------------
 
-I've started learning Software Testing since the beginning of 2023, now I'm learning automation testing.
+Ivan Andrei| Owner of Digitech Sync | IT Specialist | Freelancer - Expert with expertise in IT Support, Web Development (HTML, CSS, Javascript, SQL, Python | React, Django, MySQL, SSMS) - Python Developer. I'm dedicated to creating high-quality, open-source projects that make a difference. Let's collaborate and build something amazing together!
 
-* 🌍  I'm based in Bucharest
+* :pushpin:  I'm based in Bucharest, Romania
+* 🌍  My Freelance Website - Digiteh Sync: https://syncwithivan.com
 * ✉️  You can contact me at [andrei.ivan1208@gmail.com](mailto:andrei.ivan1208@gmail.com)
-* 🧠  I'm learning Python and Web Development
+* 🧠  I'm learning continously to improve my skills
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
@@ -26,7 +27,14 @@ I've started learning Software Testing since the beginning of 2023, now I'm lear
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/andrei26#4908" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/NaviAndrei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/andrei-ivan-50631a141/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="https://discord.com/users/andrei26#4908" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+  <a href="https://www.github.com/NaviAndrei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/andrei-ivan-50631a141/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.instagram.com/sync.with.ivan/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/2661b007-fedf-4159-b4f5-fc44bd7afc31" width="32" height="32" /></a>
+</p>
+
+
 
 ### Badges
 
@@ -39,3 +47,7 @@ I've started learning Software Testing since the beginning of 2023, now I'm lear
 <a href="http://www.github.com/NaviAndrei"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NaviAndrei&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/NaviAndrei" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaviAndrei&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=NaviAndrei.NaviAndrei)
+
