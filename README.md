@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on **AI, cloud 
 <p align="left"> 
   <a href="https://discord.com/users/andrei26#4908" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
   <a href="https://www.github.com/NaviAndrei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/andrei-ivan-50631a141/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/sync-with-ivan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.instagram.com/sync.with.ivan/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/2661b007-fedf-4159-b4f5-fc44bd7afc31" width="32" height="32" /></a>
   <a href="https://www.facebook.com/sync.with.ivan/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ed3dffbe-3e0e-4f51-a52f-ca4af840890c" width="32" height="32" /></a>
 </p>
