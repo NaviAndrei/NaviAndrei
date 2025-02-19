@@ -1,19 +1,33 @@
-My name is Ivan Andrei
-===================================================================================================================================
+# 👋 Hi, I'm Andrei! 🚀
+Welcome to my GitHub profile! I'm a passionate developer focused on **AI, cloud computing, and automation**.
 
-Application Support Specialist
-------------------------------
+## 🔥 About Me
+- 💡 **AI Enthusiast** | Chatbot & NLP Developer 🤖
+- ☁ **Google Cloud & Firebase Developer** 🌍
+- 🔧 **Full-Stack Developer** (Python, JavaScript, Node.js)
+- 🎯 **Currently working on:** AI-powered SaaS chatbot solutions
 
-Ivan Andrei | Owner of Digitech Sync | IT Specialist | Freelancer - Expert with expertise in IT Support, Web Development (HTML, CSS, Javascript, SQL, Python | React, Django, MySQL, SSMS) - Python Developer. I'm dedicated to creating high-quality, open-source projects that make a difference. Let's collaborate and build something amazing together!
+## 🛠 Tech Stack
+🚀 **Languages & Frameworks**  
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase)
 
-* :pushpin:  I'm based in Bucharest, Romania
-* 🌍  My Freelance Website - Digiteh Sync: https://syncwithivan.com
-* ✉️  You can contact me at [andrei.ivan1208@gmail.com](mailto:andrei.ivan1208@gmail.com)
-* 🧠  I'm learning continously to improve my skills
-* 🤝  I'm open to collaborating on interesting projects
+☁ **Cloud & AI**  
+![Google Cloud](https://img.shields.io/badge/-GoogleCloud-blue?style=flat-square&logo=google-cloud)
+![Vertex AI](https://img.shields.io/badge/-VertexAI-purple?style=flat-square&logo=google)
+![Dialogflow](https://img.shields.io/badge/-Dialogflow-orange?style=flat-square&logo=dialogflow)
+
+📦 **Databases**  
+![Firestore](https://img.shields.io/badge/-Firestore-yellow?style=flat-square&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
+
+🛠 **Tools**  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+![CI/CD](https://img.shields.io/badge/-GitHub%20Actions-gray?style=flat-square&logo=github-actions)
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -49,6 +63,14 @@ Ivan Andrei | Owner of Digitech Sync | IT Specialist | Freelancer - Expert with 
 
 <a href="https://github.com/NaviAndrei" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaviAndrei&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+
+## 📫 Let's Connect!
+- 🌐 **Website:** [syncwithivan.com](https://www.syncwithivan.com)
+- 💼 **LinkedIn:** [linkedin.com/in/andrei](https://linkedin.com/in/andrei)
+- 🐦 **Twitter:** [@NaviAndrei](https://twitter.com/NaviAndrei)
+
+---
+⭐ **If you find my work helpful, consider giving a star on my repositories!** ⭐
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=NaviAndrei.NaviAndrei)
 
