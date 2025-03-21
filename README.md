@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on **AI, cloud 
 
 ## 📫 Let's Connect!
 - 🌐 **Website:** [syncwithivan.com](https://www.syncwithivan.com)
-- 💼 **LinkedIn:** [linkedin.com/in/andrei](https://linkedin.com/in/andrei)
+- 💼 **LinkedIn:** [linkedin.com/in/andrei](https://linkedin.com/in/sync-with-ivan)
 - 🐦 **Twitter:** [@NaviAndrei](https://twitter.com/NaviAndrei)
 
 ---
