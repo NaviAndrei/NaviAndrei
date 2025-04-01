@@ -9,8 +9,9 @@ Welcome to my GitHub profile! I'm a passionate developer focused on **AI, cloud 
 
 ## 🛠 Tech Stack
 🚀 **Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -20,19 +21,22 @@ Welcome to my GitHub profile! I'm a passionate developer focused on **AI, cloud 
 
 
 ☁ **Cloud & AI**  
-![Google Cloud](https://img.shields.io/badge/-GoogleCloud-blue?style=flat-square&logo=google-cloud)
-![Vertex AI](https://img.shields.io/badge/-VertexAI-purple?style=flat-square&logo=google)
-![Dialogflow](https://img.shields.io/badge/-Dialogflow-orange?style=flat-square&logo=dialogflow)
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4A90E2?style=for-the-badge&logo=googlecloud&logoColor=white) 
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 
 📦 **Databases**  
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/-Firestore-yellow?style=flat-square&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
 🛠 **Tools**  
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
 ![CI/CD](https://img.shields.io/badge/-GitHub%20Actions-gray?style=flat-square&logo=github-actions)
