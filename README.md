@@ -10,8 +10,14 @@ Welcome to my GitHub profile! I'm a passionate developer focused on **AI, cloud 
 ## 🛠 Tech Stack
 🚀 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
 
 ☁ **Cloud & AI**  
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-blue?style=flat-square&logo=google-cloud)
@@ -19,8 +25,12 @@ Welcome to my GitHub profile! I'm a passionate developer focused on **AI, cloud 
 ![Dialogflow](https://img.shields.io/badge/-Dialogflow-orange?style=flat-square&logo=dialogflow)
 
 📦 **Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firestore](https://img.shields.io/badge/-Firestore-yellow?style=flat-square&logo=firebase)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
+
+
 
 🛠 **Tools**  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
