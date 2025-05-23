@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Andrei! 🚀
-Welcome to my GitHub profile! I'm a passionate Full-Stack Developer and Linux enthusiast with strong interests in **automation**, **building efficient APIs**, and applying AI concepts to real-world solutions.
+Welcome to my GitHub profile! I'm a passionate Web Developer and Linux enthusiast with strong interests in **automation**, **building efficient APIs**, and applying AI concepts to real-world solutions.
 
 ## 🔥 About Me
-- **Full-Stack Developer** (React, Next.js, Python - Django/Flask) 🛠️
+- **Front-End Developer** (React, Next.js) 🛠️
 - **Linux Administrator & Automation Scripter** (Python, Bash) 🐧
 - **Cloud Enthusiast** (Google Cloud Platform - GCP, Firebase) ☁️
 - Exploring AI/ML applications & NLP 🤖
-- Currently freelancing via DigiTech Sync SRL, building custom web solutions and automating workflows for clients. 💼
+- Currently freelancing via DigiTech Sync SRL, building custom web solutions and automating workflows for clients. Open to permanent roles also. 💼
 
 ## 🛠 Tech Stack
 
@@ -19,8 +19,6 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer and Linux en
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -53,8 +51,8 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer and Linux en
   <a href="https://discord.com/users/andrei26#4908" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
   <a href="https://www.github.com/NaviAndrei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/sync-with-ivan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.instagram.com/sync.with.ivan/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/2661b007-fedf-4159-b4f5-fc44bd7afc31" width="32" height="32" /></a>
-  <a href="https://www.facebook.com/sync.with.ivan/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ed3dffbe-3e0e-4f51-a52f-ca4af840890c" width="32" height="32" /></a>
+<a href="https://www.instagram.com/ivan.codes.ro/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/2661b007-fedf-4159-b4f5-fc44bd7afc31" width="32" height="32" /></a>
+  <a href="https://www.facebook.com/ivan.andrei.355/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ed3dffbe-3e0e-4f51-a52f-ca4af840890c" width="32" height="32" /></a>
 </p>
 
 
